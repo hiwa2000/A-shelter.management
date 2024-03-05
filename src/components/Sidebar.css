@@ -1,0 +1,35 @@
+.sidebar {
+    background-color: #aaf4aa !important; /* Ändert die Hintergrundfarbe der Sidebar zu Hellgrün */
+    width: 250px; /* Optional: Ändert die Breite der Sidebar */
+}
+.my-div {
+    width: 100px;
+    height: 100px;
+}
+
+.sidebar-header {
+    /* Hier kannst du zusätzliche Stile für den Header der Sidebar hinzufügen, falls erforderlich */
+   
+}
+
+.sidebar-menu {
+    list-style: circle;
+    padding: 0;
+}
+
+.sidebar-menu li {
+    margin-bottom: 10px;
+}
+
+.sidebar-menu li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    display: block;
+    line-height: 30px;
+    height: 30px;
+}
+
+.sidebar-menu li a:hover {
+    color: #007bff;
+}

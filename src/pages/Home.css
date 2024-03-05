@@ -1,4 +1,12 @@
 
+body{
+    background-color: #c4f6cb;
+}
+
+h1{
+    text-align: center;
+
+}
 
 .container {
     max-width: 960px;

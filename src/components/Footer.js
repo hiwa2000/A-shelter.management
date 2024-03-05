@@ -1,4 +1,5 @@
 import React from 'react';
+import './Footer.css'
 
 function Footer() {
   return (
@@ -14,6 +15,9 @@ function Footer() {
       <div>
         <p>Folgen Sie uns:</p>
         {/* Soziale Medien Links hinzufügen */}
+      </div>
+      <div className="sidebar-footer">
+        <p>© 2024 Animal Shelter</p>
       </div>
     </footer>
   );
